@@ -1,5 +1,8 @@
 # Superstore Data Analysis Project
-
+[![Python](https://img.shields.io/badge/built%20with-Python-blue?logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/notebook-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![GitHub Repo Size]
 This repository contains resources, scripts, and analysis related to the Superstore dataset. It includes structured directories and files for easy navigation and efficient workflow management.
 
 # Repository Structure
